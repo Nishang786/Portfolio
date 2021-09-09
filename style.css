@@ -1,4 +1,17 @@
-.container {
-    border: 5px solid #242423;
-    text-align: center;
+.container_2 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(programming-wallpaper9.jpg);
+    background-size: cover;
+    background-position:center ;
+    position: relative;
+
     }
+  
+    .right-col{
+        float: right;
+        margin-right: 6%;
+        margin-top: 120px;
+        display: flex;
+        align-items: center;
+    } 
