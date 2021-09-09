@@ -1,5 +1,5 @@
 .container_2 {
-    height: 100vh;
+    height: 50rem;
     width: 100%;
     background-image: url(programming-wallpaper9.jpg);
     background-size: cover;
@@ -11,7 +11,7 @@
     .right-col{
         float: right;
         margin-right: 6%;
-        margin-top: 120px;
+        margin-top: 12rem;
         display: flex;
         align-items: center;
     } 
